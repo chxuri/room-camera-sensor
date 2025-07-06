@@ -1,13 +1,13 @@
 
-
-title: Room Camera Sensor  
-author: Rimma  
-description: Room camera sensor that send a notification to my phone when  
-someone enters my room, as well as identifies who they are (through height)   
+**Description**
+**title**: Room Camera Sensor  
+**author**: Rimma  
+**description**: Room camera sensor that send a notification to my phone when
+someone enters my room, as well as identifies who they are (through height)
 and playes an automated voice message!  
-created_at: 2025-07-02  
+**created_at**: 2025-07-02  
 
-
+<br/>
 
 # July 6: Did LOTS of research on circuits and components I'm planning on using!
 
