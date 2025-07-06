@@ -1,11 +1,11 @@
----
+
 title: Room Camera Sensor
 author: Rimma
 description: Room camera sensor that send a notification to my phone when
 someone enters my room, as well as identifies who they are (through height) 
 and playes an automated voice message!
 created_at: 2025-07-02
----
+
 
 
 # July 6: Did LOTS of research on circuits and components I'm planning on using!
@@ -17,8 +17,8 @@ also did research about a lot of the components I'm planning on using, such as c
 
 (ps: I don't know how to make links to my progress pictures so I'll be using imgur to add them!)
 
-![khanacademy courses pt1](https://imgur.com/CULSlx9)
-![khanacademy courses pt2](https://imgur.com/HiUPUYP)
+![khanacademy courses pt1](https://i.imgur.com/CULSlx9.png)
+![khanacademy courses pt2](https://i.imgur.com/HiUPUYP.png)
 
 **Total time spent: 3h**
 
