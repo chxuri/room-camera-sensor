@@ -1,5 +1,6 @@
 
-**Description**
+**Description**  
+---   
 **title**: Room Camera Sensor  
 **author**: Rimma  
 **description**: Room camera sensor that send a notification to my phone when
