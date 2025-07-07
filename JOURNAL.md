@@ -10,7 +10,7 @@ and playes an automated voice message!
 
 <br/>
 
-# July 6: Did LOTS of research on circuits and components I'm planning on using!
+# July 6: LOTS of research on circuits and components!
 
 I went to khanacademy and watched a bunch of videos in their electrical engineering 
 section, since I wanted to be fully comfortable with working with different kinds
@@ -23,4 +23,14 @@ also did research about a lot of the components I'm planning on using, such as c
 ![khanacademy courses pt2](https://i.imgur.com/HiUPUYP.png)
 
 **Total time spent: 3h**
+
+# July 7: More research on components and began making schematic
+
+I've found majority of the components that I am going to use today! I'm planning on making two parts of my project: the first part will allow a person who knows the pin (me) to enter it into a macropad sort of thing to disable the camera turning on/sending a notification to my phone. I'm planning to use an esp32 for it along with a distance sensor, and maybe an OLED if I have time to display the numbers pressed. This will be a pcb. The other part will be placed on the corner of my room made from a RaspberryPi Zero 2 with a camera module. I'm still trying to figure out how to make the esp32 send a remote signal to the raspi to turn it on/off, but I guess I can always do it with a wire...
+
+
+![schematic work](https://i.imgur.com/a/qRDpxS3.png)
+![google doc of components](https://i.imgur.com/a/NZegJfa.png)
+
+**Total time spent: 4h**
 
