@@ -26,11 +26,21 @@ also did research about a lot of the components I'm planning on using, such as c
 
 # July 7: More research on components and began making schematic
 
-I've found majority of the components that I am going to use today! I'm planning on making two parts of my project: the first part will allow a person who knows the pin (me) to enter it into a macropad sort of thing to disable the camera turning on/sending a notification to my phone. I'm planning to use an esp32 for it along with a distance sensor, and maybe an OLED if I have time to display the numbers pressed. This will be a pcb. The other part will be placed on the corner of my room made from a RaspberryPi Zero 2 with a camera module. I'm still trying to figure out how to make the esp32 send a remote signal to the raspi to turn it on/off, but I guess I can always do it with a wire...
+I've found majority of the components that I am going to use today! I'm planning on making two parts of my project: the first part will allow a person who knows the pin (me) to enter it into a macropad sort of thing to disable the camera turning on/sending a notification to my phone. I'm planning to use an xiao rp2040 for it along with a distance sensor, and maybe an OLED if I have time to display the numbers pressed. This will be a pcb. The other part will be placed on the corner of my room made from a RaspberryPi Zero 2 with a camera module. I'm still trying to figure out how to make the xiao rp2040 send a remote signal to the raspi to turn it on/off, but I guess I can always do it with a wire...
 
 
 ![schematic work](https://i.imgur.com/hKV9KRm.png)
 ![google doc of components](https://i.imgur.com/Zl4s0Sl.png)
 
 **Total time spent: 4h**
+
+# July 14: Finishing pcb schematic + editor and planning location of parts
+Ended up not doing much for like a week because of the squeak ysws but I did do some research about how to send the data from the xiao rp2040 (i was calling it esp32 this entire time so ill fix that in this commit lol) and I'm probably going to use KMK, though ill have to learn more about that. I finished the schematic of my number pad that I'll be mounting on the wall and arranged it in the pcb editor. it was kind of hard finding the right footprints for the diodes, but I think i figured them out. I added some fun silkscreen because why not (idc that itll be hidden by the 3d cover its my pcb). I also loosely sketched out a plan of where all the parts will be in situated in my room and what I want them all to do since my ideas have been kind of all over the place. I'll try to learn a bit more about programming on arduinos since i barely know anything and start making a basic outline for the code since I know i'll need that for the future.
+
+
+![schematic](https://i.imgur.com/UhFHWSi.png)
+![pcb editor](https://i.imgur.com/dwqTqwN.png)
+![basic sketch of parts](https://i.imgur.com/lQOAwBH.jpeg)
+
+**Total time spent: 3h**
 
