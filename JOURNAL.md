@@ -40,7 +40,8 @@ Ended up not doing much for like a week because of the squeak ysws but I did do 
 
 ![schematic](https://i.imgur.com/UhFHWSi.png)
 ![pcb editor](https://i.imgur.com/dwqTqwN.png)
-![basic sketch of parts](https://i.imgur.com/lQOAwBH.jpeg)
+<img src="https://i.imgur.com/lQOAwBH.jpeg" width="50%" height="50%" alt="basic sketch of parts">
+
 
 **Total time spent: 3h**
 
