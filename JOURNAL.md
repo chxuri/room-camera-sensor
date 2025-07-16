@@ -44,3 +44,11 @@ Ended up not doing much for like a week because of the squeak ysws but I did do 
 
 **Total time spent: 3h**
 
+
+# July 14: Learning more about arduino programming 
+I did a little bit more research about the xiao rp2040 microcontroller and realized it doesn't support wifi/bluetooth and it would honestly be a pain to transmit data to the raspi. I decided to switch to the xiao esp32 which is quite close price wise, but it'll be easeir to connect to wifi which I'm happy about. I also began doing research about writing the firmware for the esp32, and I think I've begun to remember some basics about arduino. I began making a rough outline of what I will do for the code, and tested some on online simulations. I'm also considering not using a Raspberry Pi Zero 2 since there might be something a bit simpler out there. I'm willing to do some more research. Also considering adding an OLED screen to the numpad so that you can see which password is being written in. Not necessary but kind of a finishing touch if I have time!
+
+<img src="https://i.imgur.com/z9yrmny.png" width="40%" height="40%" alt="beginning of code">
+
+**Total time spent: 45 mins**
+
