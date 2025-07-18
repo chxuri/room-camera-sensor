@@ -52,3 +52,13 @@ I did a little bit more research about the xiao rp2040 microcontroller and reali
 
 **Total time spent: 45 mins**
 
+
+# July 17 & 18: Updating schematic with new components + beginning 3D case
+I realized that the best way for me to approach this project would be to leave the code untill the end since Highway is technically a hardware ysws. So I ended up focusing a lot more on the physical components and decided to make the number pad a lot more interesting! I updated the schematic to have pin headers and pin sockets so that it would be easier to attatch the OLED and the pir motion sensor. It was kind of difficult to figure out which pins would go where (like the SCL and SDA), since so far I'd only been working with gpio pins. The routing took a little while and I wasn't sure if it would work since with the stuff I added everything started looking a lot messier. I posted pics of my schematic and pcb editor into slack and they got approved! I also realized that it would be a good idea to get myself some female to female wires into my list of materials so I wouldn't have to be forced to put the pir monitor right on top of the pcb. I started making the 3D case for the number pad, though fusion took a little while to set up since 1. I don't really make 3D models often, and 2. I used onshape last time. It actually wasn't that bad and I feel like I made some decent progress these past couple days!
+
+<img src="https://i.imgur.com/XZkucs8.png" width="40%" height="40%" alt="finished pcb editor">
+<img src="https://i.imgur.com/r2iHJbG.png" width="40%" height="40%" alt="finished pcb schematic">
+<img src="https://i.imgur.com/hkXibef.png" width="40%" height="40%" alt="3D model base">
+
+**Total time spent: 3h**
+
