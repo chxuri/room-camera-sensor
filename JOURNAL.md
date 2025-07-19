@@ -62,3 +62,15 @@ I realized that the best way for me to approach this project would be to leave t
 
 **Total time spent: 3h**
 
+
+
+# July 19: Continuing 3D case and finding better parts
+I finished the guide that was posted for hackpad so I could have an idea of what I was doing, and then I started making the 3d model of my number pad. The hardest part was probably making everything fit, since I have 12 keys on my numpad and I had to joint every single one of them along with the keycaps. Finding 3D models of everything was also quite challenging because some of the parts I sourced were hard to find replicas of. I also realized that AliExpress was probably a better place for me to source my parts, so I worked a little bit on making my BOM cheaper and choosing better components. The motion sensor in particular was hard to find since I didn't want one that would need > 3.3V energy (which is how much the esp32 can provide), and also making sure that it wasn't too big. When I imported the 3D model into fusion though, it overlapped slightly with the keys. It doesn't acutally touch them so it's not that big of a problem but it pisses me off so bad I'll have to fix it tomorrow T-T. Also with the new pir the GND and OUT pins are switched so I'll have to update my schematic for that too... hardware is hard guys. 
+(uhh i looked at the model again and lwk idk if i want to fix the overlap with keys like i just spent an hour trying to center them fhwhfhewjfbjwebfdjed im so done with fusion)
+
+<img src="https://i.imgur.com/iluV6jj.png" width="40%" height="40%" alt="3D model so far">
+<img src="https://i.imgur.com/WOMw0Bm.png" width="40%" height="40%" alt="updates on materials list">
+
+
+**Total time spent: 4h (me eyes hurty)**
+
