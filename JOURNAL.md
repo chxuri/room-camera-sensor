@@ -74,3 +74,14 @@ I finished the guide that was posted for hackpad so I could have an idea of what
 
 **Total time spent: 4h (me eyes hurty)**
 
+# July 20, 21, a bit of 22: finished case, updated pcb, started raspi case, worked on bom
+The overlap with the keys was REALLY bothering me so I went to update my schematic and change the location of the pir. After i did that, i realized that while i have the chance to update my pcb, it would be a good idea to find some more cost efficient components on aliexpress (i mostly had amazon and seeed studio on my component doc) since i could move around the pins if needed. I did end up finding a much cheaper motion sensor and oled on ali but i had to change the schematic and routing again since the gnd and out pins were flipped T-T. When i was done with that i finished making the case and fitted all the parts together. At first on the lid I had a design that rose slightly out of the case (by like a mm) but i realized that would be really annoying to print so i decided to put the design as an indent. I had to change the entire thickness of the top part after that since with the indentation i felt like some parts became way too thin. I also added little pegs on the lid so the pcb wouldn't move around too much when i mount it on the wall. Then I began working on the case for my raspi, which honestly feels a lot easier than the numpad one. I don't know how well it's going to print tho, since i added air holes in the sides for good ventilation... as i started working on that i realized it would be a good idea to look for a camera on aliexpress since i had to be 100% sure with what the sizing of the cam would be. i found one that i think would work but the welcome coupons on ali are weird so hopefully it doesn't end up costing more than the one i found on amazon. I'll continue to work on the raspi case and also maybe continue some of the firmware?
+
+<img src="https://i.imgur.com/TFI20lI.png" width="40%" height="40%" alt="updated schematic">
+<img src="https://i.imgur.com/9kaSgst.png" width="40%" height="40%" alt="numpad case top">
+<img src="https://i.imgur.com/VY5abBD.png" width="40%" height="40%" alt="fully fitted numpad">
+<img src="https://i.imgur.com/cG2irrz.png" width="40%" height="40%" alt="work on raspi case">
+
+
+**Total time spent: 4.5**
+
