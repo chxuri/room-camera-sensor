@@ -3,9 +3,8 @@
 ---   
 **title**: Room Camera Sensor  
 **author**: Rimma  
-**description**: Room camera sensor that send a notification to my phone when
-someone enters my room, as well as identifies who they are (through height)
-and playes an automated voice message!  
+**description**: Room camera sensor that records video of my room when it senses there is someone inside! Can be disabled with a security 
+system so the SD card doesn't get clogged with a bunch of videos of me. 
 **created_at**: 2025-07-02  
 
 <br/>
@@ -83,5 +82,16 @@ The overlap with the keys was REALLY bothering me so I went to update my schemat
 <img src="https://i.imgur.com/cG2irrz.png" width="40%" height="40%" alt="work on raspi case">
 
 
-**Total time spent: 4.5**
+**Total time spent: 4.5h**
+
+
+# July 25: finished raspi case continued bom work
+I took a little break to work on something else but today I managed to get quite a bit done! Firstly, I finished my raspi case and posted it into #highway so people could look over it and lmk if it could be printed. I was sort of hesitant about the bottom especially since it's slanted and theres little gaps for the usb openings, but everyone said it would be fine so yipee. I also played around a bit with the lighting on my 3D models for the sole purpose of making them look cool but I'll probably go with something else for the final submission since looking at them now they kinda look ugly lol. I continued working on the bom and I found some ways I could decrease the costs so that was also a little win for me :3. It took a while to find the right size screws and heat inserts for my number pad and raspi case but I'm hoping I got the measurements right. I think I'll finish the bom later today and start uploading all my files into my repo! I'm also saving a few days to finish the firmware and I've started to plan out (mentally lmao) how I'll make it work.
+
+<img src="https://i.imgur.com/NHwTB1S.png"width="40%" height="40%" alt="numpad CAD">
+<img src="https://i.imgur.com/jYcyjza.png" width="40%" height="40%" alt="raspi case CAD">
+<img src="https://i.imgur.com/SGoknLb.png" width="40%" height="40%" alt="bom doc">
+
+
+**Total time spent: 3h**
 
