@@ -95,3 +95,11 @@ I took a little break to work on something else but today I managed to get quite
 
 **Total time spent: 3h**
 
+
+# July 26 & 27: Fully finished bom, uploaded cad/pcb files
+I fully finished the BOM today! It took a really long time to add everything up since I kept forgetting to consider taxes and shipping. I decided to use the welcome deal on my raspi cam since its the most expensive out of all my aliexpress items and I'll be using my dad's amazon acc to get the cherry mx switches since shipping is free (yay). It also took me a while to figure out which pcb and cad files I had to upload but I think I figured it out and I'm ready to start on the firmware! I think I'll use QMK since from what I've seen it's considered a holy grail in the keeb community. I think I won't do too much firmware for my raspi since I'd have to figure out how to get the wifi to work and that'll be hard without it in front of my physically. 
+
+<img src="https://i.imgur.com/RlkmYCp.png" width="40%" height="40%" alt="github repo">
+<img src="https://i.imgur.com/WwPCup1.png" width="40%" height="40%" alt="le bomb >:)">
+
+**Total time spent: 3.5h**
