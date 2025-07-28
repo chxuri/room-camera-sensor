@@ -1,10 +1,9 @@
 
-**Description**  
+**Description (TIME SPENT: 33h and 45 mins)**  
 ---   
 **title**: Room Camera Sensor  
 **author**: Rimma  
-**description**: Room camera sensor that records video of my room when it senses there is someone inside! Can be disabled with a security 
-system so the SD card doesn't get clogged with a bunch of videos of me. 
+**description**: Security camera that is turned on by a motion sensor, records footage, and can be disabled through a special password system so the SD card doesn't get clogged with a bunch of videos of me. (more description in readme!)
 **created_at**: 2025-07-02  
 
 <br/>
@@ -103,3 +102,11 @@ I fully finished the BOM today! It took a really long time to add everything up 
 <img src="https://i.imgur.com/WwPCup1.png" width="40%" height="40%" alt="le bomb >:)">
 
 **Total time spent: 3.5h**
+
+
+# July 28: Final file upload, finishing firmware (IM DONE LES GOO)
+IM DONE YAYY. Today I finished uploading all my files to my repo, finished making the firmware, and made a readme! I was originally planning to use QMK firmware but apparently esp32 isn't supported so i had to make all the code myself. I'll be using MQTT to send data from the esp32 to the raspi as well It took me like twice as long and probably has a bunch of mistakes but at least I got a solid layout figured out. I also wrote a readme with a description and added a bunch of photos! 
+
+<img src="https://i.imgur.com/qHLYjg9.png" width="40%" height="40%" alt="small section of code">
+
+**Total time spent: 3h**
