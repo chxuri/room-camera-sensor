@@ -4,7 +4,6 @@
 **title**: Room Camera Sensor  
 **author**: Rimma  
 **description**: Security camera that is turned on by a motion sensor, records footage, and can be disabled through a special password system so the SD card doesn't get clogged with a bunch of videos of me. (more description in readme!)
-
 **created_at**: 2025-07-02  
 
 <br/>
