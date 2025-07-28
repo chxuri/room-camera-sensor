@@ -1,7 +1,7 @@
-//these are the libraries im using for my OLED and to connect my esp32 to wifi!
 //since i don't currently have any of the components i'm planning to program, this code WILL contain errors.
 //i tried my best to create a basic outline of how the code will look when i do run it on the actual parts 
 
+//these are the libraries im using for my OLED and to connect my esp32 to wifi!
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <SPI.h>
