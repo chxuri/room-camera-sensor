@@ -15,13 +15,18 @@ All 3D models are made by the one and only me! The top of this will be white and
 The black little cylinder looking thing is my camera model. I made it myself so ik it looks ugly, I just couldn't find anything on the internet.
 <img src="https://i.imgur.com/xD8Lgub.png" width="100%" height="100%" alt="RASPI CASE YAY">
 
-## PCB
+## PCB (numpad)
 
-<img src="https://i.imgur.com/cxXzcWT.png" width="100%" height="100%" alt="RASPI CASE YAY">
+<img src="https://i.imgur.com/cxXzcWT.png" width="100%" height="100%" alt="pcb">
 
-## Schematic
+## Schematic (numpad)
 
-<img src="https://i.imgur.com/Bl5TpVU.png" width="100%" height="100%" alt="RASPI CASE YAY">
+<img src="https://i.imgur.com/Bl5TpVU.png" width="100%" height="100%" alt="schematic">
+
+## Raspi Wiring Diagram
+This is my first time making a wiring diagram so i apologize for the ugliness lol
+<img src="https://i.imgur.com/JveRoyI.jpeg" width="100%" height="100%" alt="wiring">
+
 
 ### BOM
 | Item                 | Price  | Quantity| Link  |
