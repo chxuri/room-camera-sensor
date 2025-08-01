@@ -110,3 +110,14 @@ IM DONE YAYY. Today I finished uploading all my files to my repo, finished makin
 <img src="https://i.imgur.com/qHLYjg9.png" width="40%" height="40%" alt="small section of code">
 
 **Total time spent: 3h**
+
+# July 31: Re-submission Changes
+
+All changes I made for re-submission:
+-Got rid of the raspberry pi case and instead used an add on camera for the ESP32
+-Changed the pcb size to make it cheaper
+-Changed all of the case models so the pcb could fit
+-Added an indent in the top of the case so the camera can have somewhere to sit
+-Changed the BOM to include all of the changes 
+
+**Total time spent: 3.5h**
